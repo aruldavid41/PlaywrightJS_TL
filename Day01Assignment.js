@@ -25,6 +25,9 @@ console.log(typeof isWeekend)
 console.log(typeof futureGoal)
 
 
+/**Dif bet var& let 
+ * var- we can able to declare same variyable name(Globally)
+ * let-we can't able to declare same variyable name(block level)**/
 
 
 
